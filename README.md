@@ -4,9 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael1ma/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://micael1ma.github.io/)
 
-<div style="display: inline_block">
-<img src="https://github-readme-stats.vercel.app/api?username=micael1ma&show_icons=true&theme=dark" />
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael1ma&layout=compact&theme=dark" />-->
+<div style="display: inline_block" align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=micael1ma&show_icons=true&theme=dark" />
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=micael1ma&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+          <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael1ma&layout=compact&theme=dark" />-->
 </div>
 
   ##
